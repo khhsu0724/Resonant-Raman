@@ -18,4 +18,4 @@ The fortran code is only tested on NERSC
 $ ftn -L$ARPACKROOT/lib -larpack -lparpack -llapack -O3 -fallow-argument-mismatch -fbounds-check -o ResRaman ResRaman-hny.f90
 ```
 ## Publication
-[arxiv post coming](https://arxiv.org/abs/2502.07108)
+https://arxiv.org/abs/2502.07108
